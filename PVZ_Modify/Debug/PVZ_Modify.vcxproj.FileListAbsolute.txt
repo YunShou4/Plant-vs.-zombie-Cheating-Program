@@ -1,0 +1,8 @@
+C:\Users\92919\Desktop\vs_project\PVZ_Modify\Debug\PVZ_Modify.exe
+C:\Users\92919\Desktop\vs_project\PVZ_Modify\Debug\PVZ_Modify.pdb
+C:\Users\92919\Desktop\homework\程序设计实验\大作业\PVZ_Modify\Debug\PVZ_Modify.exe
+C:\Users\92919\Desktop\homework\程序设计实验\大作业\PVZ_Modify\Debug\PVZ_Modify.pdb
+C:\Users\92919\Desktop\homework\程序设计\大作业\PVZ_Modify\Debug\PVZ_Modify.exe
+C:\Users\92919\Desktop\homework\程序设计\大作业\PVZ_Modify\Debug\PVZ_Modify.pdb
+C:\Users\92919\Desktop\homework\程序设计\19185-李一舟-大作业\PVZ_Modify\Debug\PVZ_Modify.exe
+C:\Users\92919\Desktop\homework\程序设计\19185-李一舟-大作业\PVZ_Modify\Debug\PVZ_Modify.pdb
